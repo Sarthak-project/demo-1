@@ -1,2 +1,4 @@
 # demo-1
-It is  a practise github repository
+It is my first github repository.
+<br>
+Author-Sarthak Raut
